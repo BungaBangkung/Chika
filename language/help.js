@@ -10,7 +10,7 @@ exports.menu = (botname, pushname, salam) => {
 	return`Selamat ${salam} kak ${pushname}
 
 Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
-Saya Di program oleh wa.me/${ownernomer } menggunakan Html🗿😱`
+Saya Di program oleh ${ownernomer } menggunakan Html🗿😱`
 }
 
 //—————「 List 」—————//
