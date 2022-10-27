@@ -1,4 +1,4 @@
-/*
+
 › Create By @RIY
 › Base Ori @DikaArdnt
 › Kalau mau ubah/edit owner di settings.js
@@ -10,7 +10,7 @@ exports.menu = (botname, pushname, salam) => {
 	return`Selamat ${salam} kak ${pushname}
 
 Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
-Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Owner Agar Segera Di Perbaiki🙏`
+Saya Di program oleh wa.me/${ownernomer } menggunakan Html🗿😱`
 }
 
 //—————「 List 」—————//
@@ -432,13 +432,13 @@ return`  _Selamat ${salam} kak ${pushname}_
 
 //—————「 Welcome 」—————//
 exports.welcome = () => {
-	return`Welcome
+	return`Welcome 🗿😄 ${pushname}
 `
 }
 
 //—————「 Leave 」—————//
 exports.leave = () => {
-	return`Byeee
+	return`Sayonara 👋 ${pushname}
 `
 }
 
